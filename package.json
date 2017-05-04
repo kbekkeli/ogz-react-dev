@@ -1,0 +1,27 @@
+{
+  "name": "ogz-react-dev",
+  "version": "0.0.1",
+  "description": "Base Build Template For Creating Typescript Coded Express Apps With React",
+  "main": "./dist/app.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGZCoder/ogz-react-dev.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Webpack",
+    "Express",
+    "Typescript",
+    "React",
+    "Redux"
+  ],
+  "author": "Joshua Riddle (ogzcoder)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OGZCoder/ogz-react-dev/issues"
+  },
+  "homepage": "https://github.com/OGZCoder/ogz-react-dev#readme"
+}
